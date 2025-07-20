@@ -3,6 +3,52 @@
 <head>
   <title>سایت من</title>
 </head>
+  <header>
+  <h1>طراحی با موبایل</h1>
+  <nav>
+    <ul class="menu">
+      <li><a href="#about">درباره من</a></li>
+      <li><a href="#tutorials">آموزش‌ها</a></li>
+      <li><a href="#contact">تماس با من</a></li>
+      <li><a href="https://t.me/pixallab75" target="_blank">تلگرام</a></li>
+    </ul>
+  </nav>
+</header>
+  header {
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+nav .menu {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav .menu li {
+  display: inline;
+}
+
+nav .menu a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+nav .menu a:hover {
+  color: #0056b3;
+}
 <body>
 
   <!-- بخش سربرگ -->
