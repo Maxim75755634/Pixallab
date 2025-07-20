@@ -3,7 +3,7 @@
 <head>
   <title>سایت من</title>
 </head>
-  <Style>
+  
     عالیه! برای اینکه 
 <header>
   <h1>طراحی با موبایل</h1>
