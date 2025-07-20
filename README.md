@@ -3,7 +3,15 @@
 <head>
   <title>سایت من</title>
 </head>
-  <header>
+  <Style>
+    عالیه! برای اینکه در بالای سایتت یک منوی زیبا و ساده داشته باشی که کاربر بتونه بین بخش‌های مختلف (مثل: درباره من، آموزش‌ها، تماس با من) جابه‌جا بشه، از این کد استفاده کن:
+
+
+---
+
+✅ کد کامل منوی بالا (ناوبری):
+
+<header>
   <h1>طراحی با موبایل</h1>
   <nav>
     <ul class="menu">
@@ -14,7 +22,9 @@
     </ul>
   </nav>
 </header>
-  header {
+
+<Style>
+header {
   background-color: #ffffff;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   padding: 20px;
@@ -48,6 +58,21 @@ nav .menu a {
 
 nav .menu a:hover {
   color: #0056b3;
+}
+
+
+  </Style>
+  <header>
+  <h1>طراحی با موبایل</h1>
+  <nav>
+    <ul class="menu">
+      <li><a href="#about">درباره من</a></li>
+      <li><a href="#tutorials">آموزش‌ها</a></li>
+      <li><a href="#contact">تماس با من</a></li>
+      <li><a href="https://t.me/pixallab75" target="_blank">تلگرام</a></li>
+    </ul>
+  </nav>
+</header>
 }
 <body>
 
