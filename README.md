@@ -16,16 +16,7 @@
   </nav>
 </header>
 <body>
-<Style>
-body {
-  font-family: Tahoma, sans-serif;
-  direction: rtl;
-  margin: 0;
-  padding: 0;
-  background: #e0f7fa; /* 🔵 آبی روشن */
-  color: #333;
-}
-</Style>
+
   <!-- 👇 اینجا بخش درباره من رو اضافه کن -->
   <section id="about">
     <h2>درباره من</h2>
