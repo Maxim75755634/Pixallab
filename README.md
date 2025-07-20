@@ -56,24 +56,7 @@ nav .menu a:hover {
 
 
   </Style>
-  <header>
-  <h1>طراحی با موبایل</h1>
-  <nav>
-    <ul class="menu">
-      <li><a href="#about">درباره من</a></li>
-      <li><a href="#tutorials">آموزش‌ها</a></li>
-      <li><a href="#contact">تماس با من</a></li>
-      <li><a href="https://t.me/pixallab75" target="_blank">تلگرام</a></li>
-    </ul>
-  </nav>
-</header>
-}
-<body>
 
-  <!-- بخش سربرگ -->
-  <header>
-    <h1>طراحی با موبایل</h1>
-  </header>
 
   <!-- 👇 اینجا بخش درباره من رو اضافه کن -->
   <section id="about">
