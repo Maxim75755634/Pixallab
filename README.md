@@ -17,46 +17,6 @@
   </nav>
 </header>
 
-<Style>
-header {
-  background-color: #ffffff;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-  text-align: center;
-}
-
-header h1 {
-  margin: 0;
-  font-size: 24px;
-  color: #333;
-}
-
-nav .menu {
-  list-style: none;
-  padding: 0;
-  margin: 10px 0 0;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-}
-
-nav .menu li {
-  display: inline;
-}
-
-nav .menu a {
-  text-decoration: none;
-  color: #007bff;
-  font-weight: bold;
-}
-
-nav .menu a:hover {
-  color: #0056b3;
-}
-
-
-  </Style>
-
 
   <!-- 👇 اینجا بخش درباره من رو اضافه کن -->
   <section id="about">
